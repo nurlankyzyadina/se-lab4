@@ -1,0 +1,4 @@
+# Test fallback to primary store when secondary store is empty
+GT4500,10,0.0,0,0.0
+TORPEDO,SINGLE # 1st fire: fires primary store (wasPrimaryFiredLast = true)
+TORPEDO,SINGLE # 2nd fire: secondary is empty, falls back to check and fire primary
