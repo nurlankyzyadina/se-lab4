@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500 creation
+SUCCESS # <- First TORPEDO (primary)
+SUCCESS # <- Second TORPEDO (fallback to primary)
